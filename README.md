@@ -6,9 +6,9 @@ Software Used
 -VS Code 
 
 Sample Output
-Enter your name: Monika
-Enter your user ID: 101
-Welcome Monika!
+-Enter your name: Monika
+-Enter your user ID: 101
+-Welcome Monika!
 Menu:
 1. Show Books
 2. Issue Book
